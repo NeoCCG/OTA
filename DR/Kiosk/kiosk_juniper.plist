@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.cxapp.kiosk</string>
+				<string>com.cxapp.kiosk.juniper</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Kiosk</string>
+				<string>CXApp Kiosk</string>
 			</dict>
 		</dict>
 	</array>
